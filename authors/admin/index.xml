@@ -6,10 +6,26 @@
     <description>Recent content on Christopher J. Schmank</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Role of Working Memory in Reading Comprehension: Latent Variable and Psychometric Network Model Re-Analyses of Freed, Hamilton, and Long (2017)</title>
+      <link>/publication/psyarxiv-pwmandrc/</link>
+      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/psyarxiv-pwmandrc/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Psychometric Network Analysis of the Hungarian WAIS</title>
@@ -332,7 +348,7 @@ rm Untitled.md
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;Christopher J. Schmank is a PhD graduate student at Claremont Graduate University studying under the supervision of Andrew R.A. Conway, PhD. His research interests include the impact of psychosocial stress on language production and general cognitive abilities as well as statistical modeling techniques like latent variable modeling and psychometric network analysis.&lt;/p&gt;
