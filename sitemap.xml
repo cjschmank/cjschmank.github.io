@@ -69,7 +69,7 @@
   </url>
   
   <url>
-    <loc>/publication/</loc>
+    <loc>/preprints/</loc>
     <lastmod>2019-06-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -92,7 +92,7 @@
   </url>
   
   <url>
-    <loc>/publication/psyarxiv-pwmandrc/</loc>
+    <loc>/preprints/psyarxiv-pwmandrc/</loc>
     <lastmod>2019-06-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -103,7 +103,7 @@
   </url>
   
   <url>
-    <loc>/publication/psyarxiv-pnaofhwais/</loc>
+    <loc>/preprints/psyarxiv-pnaofhwais/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -155,6 +155,11 @@
     <loc>/authors/nichol-castro/</loc>
     <lastmod>2017-10-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2017-10-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
