@@ -35,7 +35,53 @@
   
   <url>
     <loc>/authors/admin/</loc>
-    <lastmod>2019-06-30T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2019-07-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/anc2019-adultsofallagesexpincreasedtots/</loc>
+    <lastmod>2019-07-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2019-07-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/lori-e.-james/</loc>
+    <lastmod>2019-07-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2019-07-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2019-07-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/source-themes/</loc>
+    <lastmod>2019-07-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-07-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -51,19 +97,7 @@
   </url>
   
   <url>
-    <loc>/authors/</loc>
-    <lastmod>2019-06-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/authors/michael-j.-kane/</loc>
-    <lastmod>2019-06-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
     <lastmod>2019-06-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -75,18 +109,6 @@
   
   <url>
     <loc>/authors/sara-a.-goring/</loc>
-    <lastmod>2019-06-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/source-themes/</loc>
-    <lastmod>2019-06-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2019-06-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -140,26 +162,9 @@
   </url>
   
   <url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2017-10-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/lori-e.-james/</loc>
-    <lastmod>2017-10-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/authors/nichol-castro/</loc>
     <lastmod>2017-10-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2017-10-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
