@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tony W. Buchanan on Christopher J. Schmank</title>
+    <title>Tony W. Buchanan | Personal Website of Christopher J. Schmank</title>
     <link>/authors/tony-w.-buchanan/</link>
-    <description>Recent content in Tony W. Buchanan on Christopher J. Schmank</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 10 Oct 2017 00:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="/authors/tony-w.-buchanan/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/authors/tony-w.-buchanan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tony W. Buchanan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Tony W. Buchanan</title>
+      <link>/authors/tony-w.-buchanan/</link>
+    </image>
     
     <item>
       <title>Tip of the Tongue States Increase Under Evaluative Observation</title>
       <link>/publication/jpr2018-totstatesincreaseundereo/</link>
       <pubDate>Tue, 10 Oct 2017 00:00:00 +0000</pubDate>
-      
       <guid>/publication/jpr2018-totstatesincreaseundereo/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;

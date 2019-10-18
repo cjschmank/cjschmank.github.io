@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Michael J. Kane on Christopher J. Schmank</title>
+    <title>Michael J. Kane | Personal Website of Christopher J. Schmank</title>
     <link>/authors/michael-j.-kane/</link>
-    <description>Recent content in Michael J. Kane on Christopher J. Schmank</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 30 Jun 2019 00:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="/authors/michael-j.-kane/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/authors/michael-j.-kane/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michael J. Kane</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 30 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Michael J. Kane</title>
+      <link>/authors/michael-j.-kane/</link>
+    </image>
     
     <item>
       <title>The Role of Working Memory in Reading Comprehension: Latent Variable and Psychometric Network Model Re-Analyses of Freed, Hamilton, and Long (2017)</title>
       <link>/preprints/psyarxiv-pwmandrc/</link>
       <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
-      
       <guid>/preprints/psyarxiv-pwmandrc/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;

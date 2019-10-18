@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lori E. James on Christopher J. Schmank</title>
+    <title>Lori E. James | Personal Website of Christopher J. Schmank</title>
     <link>/authors/lori-e.-james/</link>
-    <description>Recent content in Lori E. James on Christopher J. Schmank</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 11 Jul 2019 00:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="/authors/lori-e.-james/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/authors/lori-e.-james/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lori E. James</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 11 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Lori E. James</title>
+      <link>/authors/lori-e.-james/</link>
+    </image>
     
     <item>
       <title>Adults of All Ages Experience Increased Tip-of-the-Tongue States Under Ostensible Evaluative Observation</title>
       <link>/publication/anc2019-adultsofallagesexpincreasedtots/</link>
       <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
-      
       <guid>/publication/anc2019-adultsofallagesexpincreasedtots/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -37,7 +37,6 @@
       <title>Tip of the Tongue States Increase Under Evaluative Observation</title>
       <link>/publication/jpr2018-totstatesincreaseundereo/</link>
       <pubDate>Tue, 10 Oct 2017 00:00:00 +0000</pubDate>
-      
       <guid>/publication/jpr2018-totstatesincreaseundereo/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;

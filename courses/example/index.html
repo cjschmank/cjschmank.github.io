@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 4.3.1">
+  <meta name="generator" content="Source Themes Academic 4.5.0">
 
   
 
@@ -37,11 +37,9 @@
 
 
   
-
   
   
-  
-  <meta name="theme-color" content="#4caf50">
+  <meta name="theme-color" content="#517c63">
   
 
   
@@ -69,6 +67,8 @@
     
 
     
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==" crossorigin="anonymous">
+    
 
     
 
@@ -76,27 +76,31 @@
 
   
   
-  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono">
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
   
 
   
   
   
-  <link rel="stylesheet" href="/css/academic.min.421c5f0f89fe18e37e6e28bbbd660e24.css">
+  <link rel="stylesheet" href="/css/academic.min.8b8c4b05f45956bcc1bcdbad5e9e6b5f.css">
 
   
 
   
-  
-  
+
+
+
 
   
-  <link rel="alternate" href="/courses/example/index.xml" type="application/rss+xml" title="Christopher J. Schmank">
-  <link rel="feed" href="/courses/example/index.xml" type="application/rss+xml" title="Christopher J. Schmank">
+
+
+  
+  <link rel="alternate" href="/courses/example/index.xml" type="application/rss+xml" title="Personal Website of Christopher J. Schmank">
   
 
-  <link rel="manifest" href="/site.webmanifest">
-  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
   <link rel="canonical" href="/courses/example/">
@@ -108,35 +112,40 @@
     
     
   
+  
   <meta property="twitter:card" content="summary">
   
   <meta property="twitter:site" content="@cjschmank">
   <meta property="twitter:creator" content="@cjschmank">
   
-  <meta property="og:site_name" content="Christopher J. Schmank">
+  <meta property="og:site_name" content="Personal Website of Christopher J. Schmank">
   <meta property="og:url" content="/courses/example/">
-  <meta property="og:title" content="Overview | Christopher J. Schmank">
+  <meta property="og:title" content="Overview | Personal Website of Christopher J. Schmank">
   <meta property="og:description" content="Learn how to use Academic&#39;s docs layout for publishing online courses, software documentation, and tutorials."><meta property="og:image" content="/img/icon-192.png">
-  <meta property="og:locale" content="en-us">
+  <meta property="twitter:image" content="/img/icon-192.png"><meta property="og:locale" content="en-us">
   
-  <meta property="og:updated_time" content="2018-09-09T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2018-09-09T00:00:00&#43;00:00">
   
-
-  
-
 
   
 
 
 
 
+  
 
-  <title>Overview | Christopher J. Schmank</title>
+
+  
+
+
+
+
+
+  <title>Overview | Personal Website of Christopher J. Schmank</title>
 
 </head>
 
-
-<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
 
   <aside class="search-results" id="search">
   <div class="container">
@@ -154,7 +163,7 @@
       <div id="search-box">
         
         <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
-        autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
         
       </div>
 
@@ -171,11 +180,11 @@
 
 
   
-<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0 compensate-for-scrollbar" id="navbar-main">
   <div class="container">
 
     
-      <a class="navbar-brand" href="/">Christopher J. Schmank</a>
+      <a class="navbar-brand" href="/">Personal Website of Christopher J. Schmank</a>
       
       <button type="button" class="navbar-toggler" data-toggle="collapse"
               data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
@@ -189,35 +198,6 @@
       
       
       <ul class="navbar-nav mr-auto">
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#about"><span>Home</span></a>
-        </li>
-
-        
         
 
         
@@ -310,17 +290,26 @@
 
 
 
+  
+
+
+
+
 <form class="docs-search d-flex align-items-center">
   <button class="btn docs-toggle d-md-none p-0 mr-3" type="button" data-toggle="collapse" data-target="#docs-nav" aria-controls="docs-nav" aria-expanded="false" aria-label="Toggle section navigation">
     <span><i class="fas fa-bars"></i></span>
   </button>
 
   
-  <input name="q" type="search" class="form-control" id="search-query" placeholder="Search..." autocomplete="off">
+  <input name="q" type="search" class="form-control" placeholder="Search..." autocomplete="off">
   
 </form>
 
 <nav class="collapse docs-links" id="docs-nav">
+  
+
+  
+  
   
   
   <div class="docs-toc-item active">
@@ -374,12 +363,12 @@
 
     <main class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-5 docs-content" role="main">
 
-      <article class="article" itemscope itemtype="http://schema.org/Article">
+      <article class="article">
 
         <div class="docs-article-container">
-          <h1 itemprop="name">Overview</h1>
+          <h1>Overview</h1>
 
-          <div class="article-style" itemprop="articleBody">
+          <div class="article-style">
             
 
 <h2 id="flexibility">Flexibility</h2>
@@ -441,7 +430,21 @@
         </div>
 
         <div class="body-footer">
-          Last updated on Sep 9, 2018
+          <p>Last updated on Sep 9, 2018</p>
+
+          
+
+<p class="edit-page">
+  <a href="https://github.com/gcushen/hugo-academic/edit/master/content/courses/example/_index.md">
+    <i class="fas fa-pen pr-2"></i>Edit this page
+  </a>
+</p>
+
+
+
+
+          
+
         </div>
 
       </article>
@@ -449,7 +452,13 @@
       <footer class="site-footer">
   
   <p class="powered-by">
-    <a href="/privacy/">Privacy Policy</a>
+    
+      <a href="/privacy/">Privacy Policy</a>
+    
+    
+       &middot; 
+      <a href="/terms/">Terms</a>
+    
   </p>
   
 
@@ -489,6 +498,8 @@
         
         <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js" integrity="sha256-aYTdUrn6Ow1DDgh5JTc3aDGnnju48y/1c8s1dgkYPQ8=" crossorigin="anonymous"></script>
         
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/languages/r.min.js"></script>
+        
       
 
       
@@ -497,9 +508,7 @@
 
     
     
-
-    
-    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.js" integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log==" crossorigin="anonymous"></script>
     
 
     
@@ -509,13 +518,13 @@
 
     
     
+    
+    
+    
+    
     <script>
-      const search_index_filename = "/index.json";
-      const i18n = {
-        'placeholder': "Search...",
-        'results': "results found",
-        'no_results': "No results found"
-      };
+      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
       const content_type = {
         'post': "Posts",
         'project': "Projects",
@@ -559,6 +568,9 @@
 
     
     
+
+    
+    
     
     
     
@@ -571,7 +583,7 @@
     
     
     
-    <script src="/js/academic.min.9ef1b53ee2bde6c7f33b150c6ba4d452.js"></script>
+    <script src="/js/academic.min.d6bd04fdad2ad213aa8111c5a3b72fc5.js"></script>
 
     
 
@@ -580,6 +592,7 @@
 
 
 
+  
   
 
   
