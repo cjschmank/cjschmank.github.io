@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 4.3.1">
+  <meta name="generator" content="Source Themes Academic 4.5.0">
 
   
 
@@ -37,11 +37,9 @@
 
 
   
-
   
   
-  
-  <meta name="theme-color" content="#4caf50">
+  <meta name="theme-color" content="#517c63">
   
 
   
@@ -69,6 +67,8 @@
     
 
     
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==" crossorigin="anonymous">
+    
 
     
 
@@ -76,27 +76,31 @@
 
   
   
-  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono">
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
   
 
   
   
   
-  <link rel="stylesheet" href="/css/academic.min.421c5f0f89fe18e37e6e28bbbd660e24.css">
+  <link rel="stylesheet" href="/css/academic.min.8b8c4b05f45956bcc1bcdbad5e9e6b5f.css">
 
   
 
   
-  
-  
+
+
+
 
   
-  <link rel="alternate" href="/index.xml" type="application/rss+xml" title="Christopher J. Schmank">
-  <link rel="feed" href="/index.xml" type="application/rss+xml" title="Christopher J. Schmank">
+
+
+  
+  <link rel="alternate" href="/index.xml" type="application/rss+xml" title="Personal Website of Christopher J. Schmank">
   
 
-  <link rel="manifest" href="/site.webmanifest">
-  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
   <link rel="canonical" href="/">
@@ -108,35 +112,54 @@
     
     
   
+  
   <meta property="twitter:card" content="summary">
   
   <meta property="twitter:site" content="@cjschmank">
   <meta property="twitter:creator" content="@cjschmank">
   
-  <meta property="og:site_name" content="Christopher J. Schmank">
+  <meta property="og:site_name" content="Personal Website of Christopher J. Schmank">
   <meta property="og:url" content="/">
-  <meta property="og:title" content="Christopher J. Schmank">
+  <meta property="og:title" content="Personal Website of Christopher J. Schmank">
   <meta property="og:description" content="PhD Graduate Student in Applied Cognitive Psychology"><meta property="og:image" content="/img/icon-192.png">
-  <meta property="og:locale" content="en-us">
+  <meta property="twitter:image" content="/img/icon-192.png"><meta property="og:locale" content="en-us">
   
-  <meta property="og:updated_time" content="2030-06-01T13:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2030-06-01T13:00:00&#43;00:00">
   
-
-  
-
 
   
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "/?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  },
+  "url": "/"
+}
+</script>
+
+
+  
+
+
+  
+
+
+  
 
 
 
 
-  <title>Christopher J. Schmank</title>
+
+  <title>Personal Website of Christopher J. Schmank</title>
 
 </head>
 
-
-<body id="top" data-spy="scroll" data-target="#navbar-main" data-offset="71" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#navbar-main" >
 
   <aside class="search-results" id="search">
   <div class="container">
@@ -154,7 +177,7 @@
       <div id="search-box">
         
         <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
-        autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
         
       </div>
 
@@ -171,11 +194,11 @@
 
 
   
-<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0 compensate-for-scrollbar" id="navbar-main">
   <div class="container">
 
     
-      <a class="navbar-brand" href="/">Christopher J. Schmank</a>
+      <a class="navbar-brand" href="/">Personal Website of Christopher J. Schmank</a>
       
       <button type="button" class="navbar-toggler" data-toggle="collapse"
               data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
@@ -189,35 +212,6 @@
       
       
       <ul class="navbar-nav mr-auto">
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#about" data-target="#about"><span>Home</span></a>
-        </li>
-
-        
         
 
         
@@ -302,6 +296,13 @@
   
 
 
+
+
+
+
+
+
+
 <span class="js-widget-page d-none"></span>
 
 
@@ -362,29 +363,27 @@
 
 
 
-<div class="row" itemprop="author" itemscope itemtype="http://schema.org/Person" itemref="person-email person-address">
+<div class="row">
   <div class="col-12 col-lg-4">
     <div id="profile">
 
       
       
-      <img class="portrait" src="/authors/admin/avatar_hu28dc684222d69d97ab8ecc104dc08f3f_27536_250x250_fill_q90_lanczos_center.jpg" itemprop="image" alt="Avatar">
+      <img class="portrait" src="/authors/admin/avatar_hu28dc684222d69d97ab8ecc104dc08f3f_27536_250x250_fill_q90_lanczos_center.jpg" alt="Avatar">
       
 
       <div class="portrait-title">
-        <h2 itemprop="name">Christopher J. Schmank</h2>
-        <h3 itemprop="jobTitle">PhD Graduate Student in Applied Cognitive Psychology</h3>
+        <h2>Christopher J. Schmank</h2>
+        <h3>PhD Graduate Student in Applied Cognitive Psychology</h3>
 
         
-        <h3 itemprop="worksFor" itemscope itemtype="http://schema.org/Organization">
+        <h3>
           
-          <span itemprop="name">Claremont Graduate University</span>
+          <span>Claremont Graduate University</span>
           
         </h3>
         
       </div>
-
-      <link itemprop="url" href="">
 
       <ul class="network-icon" aria-hidden="true">
         
@@ -400,7 +399,7 @@
           
         
         <li>
-          <a itemprop="sameAs" href="/#contact" >
+          <a href="/#contact" >
             <i class="fas fa-envelope big-icon"></i>
           </a>
         </li>
@@ -417,7 +416,7 @@
           
         
         <li>
-          <a itemprop="sameAs" href="https://twitter.com/cjschmank" target="_blank" rel="noopener">
+          <a href="https://twitter.com/cjschmank" target="_blank" rel="noopener">
             <i class="fab fa-twitter big-icon"></i>
           </a>
         </li>
@@ -432,7 +431,7 @@
           
         
         <li>
-          <a itemprop="sameAs" href="https://osf.io/b57sp/" target="_blank" rel="noopener">
+          <a href="https://osf.io/b57sp/" target="_blank" rel="noopener">
             <i class="ai ai-osf big-icon"></i>
           </a>
         </li>
@@ -447,7 +446,7 @@
           
         
         <li>
-          <a itemprop="sameAs" href="https://scholar.google.com/citations?user=4GhfM0oAAAAJ&amp;hl=en" target="_blank" rel="noopener">
+          <a href="https://scholar.google.com/citations?user=4GhfM0oAAAAJ&amp;hl=en" target="_blank" rel="noopener">
             <i class="ai ai-google-scholar big-icon"></i>
           </a>
         </li>
@@ -464,7 +463,7 @@
           
         
         <li>
-          <a itemprop="sameAs" href="https://www.linkedin.com/in/christopherjschmank/" target="_blank" rel="noopener">
+          <a href="https://www.linkedin.com/in/christopherjschmank/" target="_blank" rel="noopener">
             <i class="fab fa-linkedin big-icon"></i>
           </a>
         </li>
@@ -481,7 +480,7 @@
           
         
         <li>
-          <a itemprop="sameAs" href="https://github.com/cjschmank/" target="_blank" rel="noopener">
+          <a href="https://github.com/cjschmank/" target="_blank" rel="noopener">
             <i class="fab fa-github big-icon"></i>
           </a>
         </li>
@@ -490,7 +489,7 @@
 
     </div>
   </div>
-  <div class="col-12 col-lg-8" itemprop="description">
+  <div class="col-12 col-lg-8">
 
     
     <h1>Biography</h1>
@@ -652,26 +651,157 @@
 
 
 
+
   
-  
-  
-
-
-
-
-
   
 
 
-<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+
+
+
+  
+
+
+<div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0" itemprop="name">
-      <a href="/publication/anc2019-adultsofallagesexpincreasedtots/" itemprop="url">Adults of All Ages Experience Increased Tip-of-the-Tongue States Under Ostensible Evaluative Observation</a>
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/publication/joi-pnaofhwais/" >Psychometric Network Analysis of the Hungarian WAIS</a>
     </h3>
 
     
-    <div class="article-style" itemprop="articleBody">
+    <div class="article-style">
+      The positive manifold—the finding that cognitive ability measures demonstrate positive correlations with one another—has led to models …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+
+
+  
+  <span><a href="/authors/admin/">Christopher J. Schmank</a></span>, <span><a href="/authors/sara-anne-goring/">Sara Anne Goring</a></span>, <span><a href="/authors/kristof-kovacs/">Kristof Kovacs</a></span>, <span><a href="/authors/andrew-r.a.-conway/">Andrew R.A. Conway</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.mdpi.com/2079-3200/7/3/21/pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/joi-pnaofhwais/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://osf.io/j3cvz/" target="_blank" rel="noopener">
+  Project
+</a>
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.3390/jintelligence7030021" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/" >
+    
+    
+  </a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/publication/anc2019-adultsofallagesexpincreasedtots/" >Adults of All Ages Experience Increased Tip-of-the-Tongue States Under Ostensible Evaluative Observation</a>
+    </h3>
+
+    
+    <div class="article-style">
       Evaluative observation by a third party can be disruptive of language production for adults of all ages based on increased …
     </div>
     
@@ -681,12 +811,13 @@
       
 
       
-      <div itemprop="author">
+      <div>
         
 
 
 
-  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/admin/">Christopher J. Schmank</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/lori-e.-james/">Lori E. James</a></span>
+  
+  <span><a href="/authors/admin/">Christopher J. Schmank</a></span>, <span><a href="/authors/lori-e.-james/">Lori E. James</a></span>
 
       </div>
       
@@ -759,26 +890,26 @@
 
 
 
+
   
-  
-  
-
-
-
-
-
   
 
 
-<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+
+
+
+  
+
+
+<div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0" itemprop="name">
-      <a href="/publication/jpr2018-totstatesincreaseundereo/" itemprop="url">Tip of the Tongue States Increase Under Evaluative Observation</a>
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/publication/jpr2018-totstatesincreaseundereo/" >Tip of the Tongue States Increase Under Evaluative Observation</a>
     </h3>
 
     
-    <div class="article-style" itemprop="articleBody">
+    <div class="article-style">
       Evaluative observation by a third party can be disruptive of language production based on the experience of more tip-of-the-tongue …
     </div>
     
@@ -788,12 +919,13 @@
       
 
       
-      <div itemprop="author">
+      <div>
         
 
 
 
-  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/lori-e.-james/">Lori E. James</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/admin/">Christopher J. Schmank</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/nichol-castro/">Nichol Castro</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/tony-w.-buchanan/">Tony W. Buchanan</a></span>
+  
+  <span><a href="/authors/lori-e.-james/">Lori E. James</a></span>, <span><a href="/authors/admin/">Christopher J. Schmank</a></span>, <span><a href="/authors/nichol-castro/">Nichol Castro</a></span>, <span><a href="/authors/tony-w.-buchanan/">Tony W. Buchanan</a></span>
 
       </div>
       
@@ -963,18 +1095,19 @@
 
 
 
+
   
 
 
-<div class="media stream-item" itemscope itemtype="http://schema.org/CreativeWork">
+<div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0" itemprop="name">
-      <a href="/preprints/psyarxiv-pwmandrc/" itemprop="url">The Role of Working Memory in Reading Comprehension: Latent Variable and Psychometric Network Model Re-Analyses of Freed, Hamilton, and Long (2017)</a>
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/preprints/psyarxiv-pwmandrc/" >The Role of Working Memory in Reading Comprehension: Latent Variable and Psychometric Network Model Re-Analyses of Freed, Hamilton, and Long (2017)</a>
     </h3>
 
     
-    <div class="article-style" itemprop="articleBody">
+    <div class="article-style">
       It is well established that reading comprehension ability varies among individuals. However, there is disagreement regarding whether …
     </div>
     
@@ -987,10 +1120,6 @@
         
 
 
-
-<meta content="2019-06-30 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2019-06-30 00:00:00 &#43;0000 UTC" itemprop="dateModified">
-
 <div class="article-metadata">
 
   
@@ -1002,7 +1131,8 @@
 
 
 
-  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/sara-a.-goring/">Sara A. Goring</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/admin/">Christopher J. Schmank</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/michael-j.-kane/">Michael J. Kane</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/andrew-r.a.-conway/">Andrew R.A. Conway</a></span>
+  
+  <span><a href="/authors/sara-a.-goring/">Sara A. Goring</a></span>, <span><a href="/authors/admin/">Christopher J. Schmank</a></span>, <span><a href="/authors/michael-j.-kane/">Michael J. Kane</a></span>, <span><a href="/authors/andrew-r.a.-conway/">Andrew R.A. Conway</a></span>
 
   </div>
   
@@ -1014,7 +1144,7 @@
     
       
     
-    <time>Jun 30, 2019</time>
+    Jun 30, 2019
   </span>
   
 
@@ -1024,106 +1154,9 @@
 
   
   
-
-  
   
 
   
-
-</div>
-
-      
-    </div>
-
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-      
-    
-      
-        
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item" itemscope itemtype="http://schema.org/CreativeWork">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0" itemprop="name">
-      <a href="/preprints/psyarxiv-pnaofhwais/" itemprop="url">Psychometric Network Analysis of the Hungarian WAIS</a>
-    </h3>
-
-    
-    <div class="article-style" itemprop="articleBody">
-      The positive manifold—the finding that cognitive ability measures demonstrate positive correlations with one another—has led to models …
-    </div>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-        
-
-
-
-<meta content="2019-06-01 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2019-06-01 00:00:00 &#43;0000 UTC" itemprop="dateModified">
-
-<div class="article-metadata">
-
-  
-  
-  
-  
-  <div>
-    
-
-
-
-  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/admin/">Christopher J. Schmank</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/sara-anne-goring/">Sara Anne Goring</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/andrew-r.a.-conway/">Andrew R.A. Conway</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/kristof-kovacs/">Kristof Kovacs</a></span>
-
-  </div>
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    <time>Jun 1, 2019</time>
-  </span>
-  
-
-  
-
-  
-
-  
-  
-
-  
-  
-
   
 
 </div>
@@ -1414,12 +1447,49 @@
       <div class="col py-2">
         <div class="card">
           <div class="card-body">
+            <h4 class="card-title exp-title text-muted mt-0 mb-1">User Experience Research Intern</h4>
+            <h4 class="card-title exp-company text-muted my-0"><a href="https://www.hitpointstudios.com/" target="_blank" rel="noopener">HitPoint Studios</a></h4>
+            <div class="text-muted exp-meta">
+              May 2019 –
+              
+                Present
+              
+              
+                <span class="middot-divider"></span>
+                <span>Supervisor: Ariella Lehrer, Ph.D</span>
+              
+            </div>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <div class="row experience">
+      
+      <div class="col-auto text-center flex-column d-none d-sm-flex">
+        <div class="row h-50">
+          <div class="col border-right">&nbsp;</div>
+          <div class="col">&nbsp;</div>
+        </div>
+        <div class="m-2">
+          <span class="badge badge-pill border ">&nbsp;</span>
+        </div>
+        <div class="row h-50">
+          <div class="col border-right">&nbsp;</div>
+          <div class="col">&nbsp;</div>
+        </div>
+      </div>
+      
+      <div class="col py-2">
+        <div class="card">
+          <div class="card-body">
             <h4 class="card-title exp-title text-muted mt-0 mb-1">Specialized Consultant</h4>
             <h4 class="card-title exp-company text-muted my-0">Accenture Talent and Innovation Lab<br>Claremont Graduate University</h4>
             <div class="text-muted exp-meta">
               Mar 2019 –
               
-                Present
+                Sep 2019
               
               
                 <span class="middot-divider"></span>
@@ -1815,6 +1885,7 @@
 
 
 
+
 <div class="row contact-widget">
   <div class="col-12 col-lg-4 section-heading">
     <h1>Contact</h1>
@@ -1850,17 +1921,15 @@
     </div>
     
 
-    <ul class="fa-ul" itemscope>
+    <ul class="fa-ul">
 
       
 
       
 
       
-      <li>
-        <i class="fa-li fas fa-map-marker fa-2x" aria-hidden="true"></i>
-        <span id="person-address" itemprop="address">Claremont Graduate University</span>
-      </li>
+      
+
       
 
       
@@ -1963,6 +2032,8 @@
         
         <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js" integrity="sha256-aYTdUrn6Ow1DDgh5JTc3aDGnnju48y/1c8s1dgkYPQ8=" crossorigin="anonymous"></script>
         
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/languages/r.min.js"></script>
+        
       
 
       
@@ -1971,9 +2042,7 @@
 
     
     
-
-    
-    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.js" integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log==" crossorigin="anonymous"></script>
     
 
     
@@ -1983,13 +2052,13 @@
 
     
     
+    
+    
+    
+    
     <script>
-      const search_index_filename = "/index.json";
-      const i18n = {
-        'placeholder': "Search...",
-        'results': "results found",
-        'no_results': "No results found"
-      };
+      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
       const content_type = {
         'post': "Posts",
         'project': "Projects",
@@ -2028,6 +2097,9 @@
 
     
     
+
+    
+    
     
     
     
@@ -2040,7 +2112,7 @@
     
     
     
-    <script src="/js/academic.min.9ef1b53ee2bde6c7f33b150c6ba4d452.js"></script>
+    <script src="/js/academic.min.d6bd04fdad2ad213aa8111c5a3b72fc5.js"></script>
 
     
 
@@ -2050,11 +2122,18 @@
 
 
   
+  
   <div class="container">
     <footer class="site-footer">
   
   <p class="powered-by">
-    <a href="/privacy/">Privacy Policy</a>
+    
+      <a href="/privacy/">Privacy Policy</a>
+    
+    
+       &middot; 
+      <a href="/terms/">Terms</a>
+    
   </p>
   
 
@@ -2067,7 +2146,7 @@
 
     
     <span class="float-right" aria-hidden="true">
-      <a href="#" id="back_to_top">
+      <a href="#" class="back-to-top">
         <span class="button_icon">
           <i class="fas fa-chevron-up fa-2x"></i>
         </span>
