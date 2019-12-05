@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Personal Website of Christopher J. Schmank</title>
+    <title>Authors | Academic Website of Christopher J. Schmank</title>
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
@@ -17,7 +17,7 @@
       <link>/authors/admin/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;Christopher J. Schmank is a PhD graduate student at Claremont Graduate University studying under the supervision of Andrew R.A. Conway, PhD. His previous research interests have included (1) the impact of psychosocial stress on language production and general cognitive functioning, (2) the impact of emotion regulation on language production and general cognitive functioning, and (3) the impact that healthy cognitive aging has on cognitive functioning under various conditions of psychosocial stress and/or emotional regulation. Additionally over the years I have used various statistical modeling techniques (e.g.,latent variable modeling and psychometric network analysis) to explore and confirm the underlying structure of various measures of cognitive ability.&lt;/p&gt;
+      <description>&lt;p&gt;Christopher J. Schmank is a PhD graduate student at Claremont Graduate University studying under the supervision of Andrew R.A. Conway, PhD. His previous research interests have included (1) the impact of psychosocial stress on language production and general cognitive functioning, (2) the impact of emotion regulation on language production and general cognitive functioning, and (3) the impact that healthy cognitive aging has on cognitive functioning under various conditions of psychosocial stress and/or emotional regulation. Additionally, since joining Andrew Conway, PhD at CGU I have focused on  various statistical modeling techniques (e.g., latent variable modeling and psychometric network analysis) to both explore and confirm the underlying structure of various measures of cognitive ability.&lt;/p&gt;
 </description>
     </item>
     
