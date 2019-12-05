@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Personal Website of Christopher J. Schmank</title>
+    <title>Academic Website of Christopher J. Schmank</title>
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <description>Personal Website of Christopher J. Schmank</description>
+    <description>Academic Website of Christopher J. Schmank</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Personal Website of Christopher J. Schmank</title>
+      <title>Academic Website of Christopher J. Schmank</title>
       <link>/</link>
     </image>
     
@@ -102,6 +102,33 @@
 &lt;/ul&gt;
 
 &lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introduction to R</title>
+      <link>/project/teaching-r-tutorials/</link>
+      <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/project/teaching-r-tutorials/</guid>
+      <description>&lt;p&gt;Introduction to R&lt;/p&gt;
+
+&lt;p&gt;Created by Christopher J. Schmank&lt;/p&gt;
+
+&lt;p&gt;Tutorial Overview&lt;/p&gt;
+
+&lt;p&gt;This OSF page was created to help undergraduate/graduate students who want to conduct statistical analyses in R Studio. Many undergraduate colleges are still teaching psychological science, experimental psychology, and other quantitatively motivated psychology students how to conduct statistical analyses ONLY using SPSS. More and more graduate schools have been shifting to using R/R Studio, which is free to download&amp;ndash;unlike SPSS. It is the hope that this tutorial can be used and widely distributed to help students who are new to the R Global Environment acclimate to using R Studio in conducting statistical analyses.&lt;/p&gt;
+
+&lt;p&gt;Introductory Tutorial&lt;/p&gt;
+
+&lt;p&gt;This initial tutorial walks students through how to use Import Dataset feature of R Studio to generate code to load various types of data. Once data is loaded into R students are introduced to three different packages that can be used to generate descriptive and frequency statistics. Next, the students are introduced to how standardization of individual columns of data can be conducted in R and how this standardized information can be added to a dataset. Finally, this tutorial wraps up with a short 10-item Quiz.&lt;/p&gt;
+
+&lt;p&gt;Contact Information&lt;/p&gt;
+
+&lt;p&gt;Christopher J. Schmank, M.A.&lt;/p&gt;
+
+&lt;p&gt;Personal website: cjschmank.github.io&lt;/p&gt;
+
+&lt;p&gt;Applied Cognitive/Quantitative Psychology PhD Graduate student at Claremont Graduate University&lt;/p&gt;
 </description>
     </item>
     
@@ -364,6 +391,15 @@ gantt
 &lt;/div&gt;
 
 &lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The DARCI Project</title>
+      <link>/project/project-darci/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/project/project-darci/</guid>
+      <description>&lt;p&gt;More information to come soon!!&lt;/p&gt;
 </description>
     </item>
     
@@ -655,27 +691,15 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>External Project</title>
-      <link>/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/external-project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Internal Project</title>
-      <link>/project/internal-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/internal-project/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+      <title>Unified Models of Cognitive Ability</title>
+      <link>/project/exploring-psychometric-networks-of-cognitive-ability/</link>
+      <pubDate>Sun, 20 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/project/exploring-psychometric-networks-of-cognitive-ability/</guid>
+      <description>&lt;p&gt;At the outset of my doctoral career with Claremont Graduate University (Fall of 2017) I was afforded the opportunity to explore &amp;ldquo;Network Modeling.&amp;rdquo; My doctoral graduate mentor, Andrew R.A. Conway, PhD. described this new technique to me as a potentially adventageous statistical tool that was recently developed that he wanted to start implementing in our research lab (&lt;a href=&#34;http://andrewraconway.squarespace.com/andrew-conway&#34; target=&#34;_blank&#34;&gt;http://andrewraconway.squarespace.com/andrew-conway&lt;/a&gt;). I was excited to start learning because one of the main reasons I chose CGU was to continue studying Cognitive Psychology while also focusing on various topics within Quantitative Psychology and Psychometrics.&lt;/p&gt;
 
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;This research project began with a small secondary data analysis project using the correlation matrix from the Woodcock Johnson Test of Cognitive Ability (4th Edition) submitted and accepted for poster presentation at the 30th annual convention of the Association for Psychological Science (File for poster (.pdf) available above). The next major move in this research project was the publication in the Special Edition of Journal of Intelligence &amp;ldquo;New Methods and Assessment Approaches in Intelligence Research&amp;rdquo; using the Hungarian Wechsler Adult Intelligence Scale (Fourth Edition; File for publication is available above).&lt;/p&gt;
 
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;p&gt;This research project is currently still in progress as we continue to explore Cognitive Ability and Intelligence from a perspective that assumes a unified network of overlapping processes similar to the views expressed in Kovacs &amp;amp; Conway (2016).&lt;/p&gt;
 </description>
     </item>
     
@@ -846,6 +870,17 @@ Figure 1: A fancy pie chart.
 &lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tip-of-the-Tongue Research</title>
+      <link>/project/evaluative-observation-and-tip-of-the-tongue-states/</link>
+      <pubDate>Sat, 23 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>/project/evaluative-observation-and-tip-of-the-tongue-states/</guid>
+      <description>&lt;p&gt;Much of my early career as an Undergraduate and M.A. Graduate student consisted of work in various research labs that focused on the impact of various psychosocial factors on language producation ability. Within this line of research I was lucky to meet and work with Tony W. Buchanan, PhD, who eventually accepted to assume the roll as both my Undergraduate Academic and Research Advisor.&lt;/p&gt;
+
+&lt;p&gt;The Cognitive Neuroscience of Stress Lab at Saint Louis University was both (1) my first experience in both physiological and psychological data collection and (2) my first experience with something that would later be my M.A. thesis project. Following my experience at SLU I continued working under the supervision of Lori E. James, PhD. while completing my M.A. in Psychological Science with a Concentration in Cognition.&lt;/p&gt;
 </description>
     </item>
     
