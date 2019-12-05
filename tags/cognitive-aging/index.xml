@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cognitive Aging | Academic Website of Christopher J. Schmank</title>
+    <link>/tags/cognitive-aging/</link>
+      <atom:link href="/tags/cognitive-aging/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cognitive Aging</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 20 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Cognitive Aging</title>
+      <link>/tags/cognitive-aging/</link>
+    </image>
+    
+    <item>
+      <title>The DARCI Project</title>
+      <link>/project/project-darci/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/project/project-darci/</guid>
+      <description>&lt;p&gt;More information to come soon!!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tip-of-the-Tongue Research</title>
+      <link>/project/evaluative-observation-and-tip-of-the-tongue-states/</link>
+      <pubDate>Sat, 23 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>/project/evaluative-observation-and-tip-of-the-tongue-states/</guid>
+      <description>&lt;p&gt;Much of my early career as an Undergraduate and M.A. Graduate student consisted of work in various research labs that focused on the impact of various psychosocial factors on language producation ability. Within this line of research I was lucky to meet and work with Tony W. Buchanan, PhD, who eventually accepted to assume the roll as both my Undergraduate Academic and Research Advisor.&lt;/p&gt;
+
+&lt;p&gt;The Cognitive Neuroscience of Stress Lab at Saint Louis University was both (1) my first experience in both physiological and psychological data collection and (2) my first experience with something that would later be my M.A. thesis project. Following my experience at SLU I continued working under the supervision of Lori E. James, PhD. while completing my M.A. in Psychological Science with a Concentration in Cognition.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,16 +1,48 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags | Personal Website of Christopher J. Schmank</title>
+    <title>Tags | Academic Website of Christopher J. Schmank</title>
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 03 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Tags</title>
       <link>/tags/</link>
     </image>
+    
+    <item>
+      <title>Psychological Stats</title>
+      <link>/tags/psychological-stats/</link>
+      <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/psychological-stats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Studio</title>
+      <link>/tags/r-studio/</link>
+      <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/r-studio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical Analysis</title>
+      <link>/tags/statistical-analysis/</link>
+      <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/statistical-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching Tutorials</title>
+      <link>/tags/teaching-tutorials/</link>
+      <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/teaching-tutorials/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Source Themes</title>
@@ -21,18 +53,74 @@
     </item>
     
     <item>
-      <title>Deep Learning</title>
-      <link>/tags/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/deep-learning/</guid>
+      <title>Cognitive Aging</title>
+      <link>/tags/cognitive-aging/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/cognitive-aging/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Demo</title>
-      <link>/tags/demo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/demo/</guid>
+      <title>Crystallized Intelligence</title>
+      <link>/tags/crystallized-intelligence/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/crystallized-intelligence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fluid Intelligence</title>
+      <link>/tags/fluid-intelligence/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/fluid-intelligence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rationality</title>
+      <link>/tags/rationality/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/rationality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research Projects</title>
+      <link>/tags/research-projects/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/research-projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hungarian WAIS-IV</title>
+      <link>/tags/hungarian-wais-iv/</link>
+      <pubDate>Sun, 20 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/hungarian-wais-iv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Latent Variable Modeling</title>
+      <link>/tags/latent-variable-modeling/</link>
+      <pubDate>Sun, 20 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/latent-variable-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Process Overlap Theory</title>
+      <link>/tags/process-overlap-theory/</link>
+      <pubDate>Sun, 20 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/process-overlap-theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Psychometric Network Analysis</title>
+      <link>/tags/psychometric-network-analysis/</link>
+      <pubDate>Sun, 20 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/psychometric-network-analysis/</guid>
       <description></description>
     </item>
     
@@ -65,6 +153,38 @@
       <link>/tags/regression/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       <guid>/tags/regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluative Observation</title>
+      <link>/tags/evaluative-observation/</link>
+      <pubDate>Sat, 23 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>/tags/evaluative-observation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Language Production</title>
+      <link>/tags/language-production/</link>
+      <pubDate>Sat, 23 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>/tags/language-production/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tip-of-the-Tongue States</title>
+      <link>/tags/tip-of-the-tongue-states/</link>
+      <pubDate>Sat, 23 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>/tags/tip-of-the-tongue-states/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trier Social Stress Test</title>
+      <link>/tags/trier-social-stress-test/</link>
+      <pubDate>Sat, 23 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>/tags/trier-social-stress-test/</guid>
       <description></description>
     </item>
     
