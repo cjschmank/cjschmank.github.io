@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Individual Differences | Academic Website of Christopher J. Schmank</title>
+    <link>/tags/individual-differences/</link>
+      <atom:link href="/tags/individual-differences/index.xml" rel="self" type="application/rss+xml" />
+    <description>Individual Differences</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Last updated: August 29, 2020</copyright><lastBuildDate>Tue, 25 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Individual Differences</title>
+      <link>/tags/individual-differences/</link>
+    </image>
+    
+    <item>
+      <title>Psychometric Models of Individual Differences in Reading Comprehension</title>
+      <link>/project/psychometric-models-of-reading-comprehension/</link>
+      <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/project/psychometric-models-of-reading-comprehension/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

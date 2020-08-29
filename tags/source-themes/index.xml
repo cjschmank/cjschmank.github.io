@@ -5,12 +5,42 @@
     <link>/tags/source-themes/</link>
       <atom:link href="/tags/source-themes/index.xml" rel="self" type="application/rss+xml" />
     <description>Source Themes</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Last updated: August 29, 2020</copyright><lastBuildDate>Mon, 17 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Source Themes</title>
       <link>/tags/source-themes/</link>
     </image>
+    
+    <item>
+      <title>A Commentary and Reanalysis of McFarland (2020)</title>
+      <link>/preprints/joicommentary_mcfarland2020/</link>
+      <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/preprints/joicommentary_mcfarland2020/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Struggle is Real: Challenges and Solutions in Theory Building</title>
+      <link>/preprints/psychinquirycommentary_fried2020/</link>
+      <pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/preprints/psychinquirycommentary_fried2020/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Psychometric Network Analysis of the Hungarian WAIS</title>
@@ -49,7 +79,7 @@
     </item>
     
     <item>
-      <title>The Role of Working Memory in Reading Comprehension: Latent Variable and Psychometric Network Model Re-Analyses of Freed, Hamilton, and Long (2017)</title>
+      <title>Psychometric Models of Individual Differences in Reading Comprehension: A Reanalysis of Freed, Hamilton, and Long (2017)</title>
       <link>/preprints/psyarxiv-pwmandrc/</link>
       <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
       <guid>/preprints/psyarxiv-pwmandrc/</guid>
