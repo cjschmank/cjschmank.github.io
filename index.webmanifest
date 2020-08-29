@@ -2,8 +2,8 @@
   "name": "Academic Website of Christopher J. Schmank",
   "short_name": "Academic Website of Christopher J. Schmank",
   "lang": "en-us",
-  "theme_color": "#425664",
-  "background_color": "#425664",
+  "theme_color": "#700606",
+  "background_color": "#700606",
   "icons": [{
     "src": "img/icon-192.png",
     "sizes": "192x192",

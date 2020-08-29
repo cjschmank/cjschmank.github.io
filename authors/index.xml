@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Last updated: August 29, 2020</copyright><lastBuildDate>Mon, 17 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,16 +15,16 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;Christopher J. Schmank is a PhD graduate student at Claremont Graduate University studying under the supervision of Andrew R.A. Conway, PhD. His previous research interests have included (1) the impact of psychosocial stress on language production and general cognitive functioning, (2) the impact of emotion regulation on language production and general cognitive functioning, and (3) the impact that healthy cognitive aging has on cognitive functioning under various conditions of psychosocial stress and/or emotional regulation. Additionally, since joining Andrew Conway, PhD at CGU I have focused on  various statistical modeling techniques (e.g., latent variable modeling and psychometric network analysis) to both explore and confirm the underlying structure of various measures of cognitive ability.&lt;/p&gt;
+      <description>&lt;p&gt;Christopher J. Schmank, MA is a doctoral graduate student at Claremont Graduate University studying under the supervision of Andrew R.A. Conway, PhD. His previous research interests have included (1) the impact of psychosocial stress on language production and general cognitive functioning, (2) the impact of emotion regulation on language production and general cognitive functioning, and (3) the impact that healthy cognitive aging has on cognitive functioning under various conditions of psychosocial stress and/or emotional regulation. Additionally, since joining Andrew Conway, PhD at CGU I have focused on  various statistical modeling techniques (e.g., latent variable modeling and psychometric network analysis) to both explore and confirm the underlying structure of various measures of cognitive ability.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Andrew R.A. Conway</title>
       <link>/authors/andrew-r.a.-conway/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>
       <guid>/authors/andrew-r.a.-conway/</guid>
       <description></description>
     </item>
@@ -32,7 +32,7 @@
     <item>
       <title>Kristof Kovacs</title>
       <link>/authors/kristof-kovacs/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>
       <guid>/authors/kristof-kovacs/</guid>
       <description></description>
     </item>
@@ -40,8 +40,16 @@
     <item>
       <title>Sara Anne Goring</title>
       <link>/authors/sara-anne-goring/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>
       <guid>/authors/sara-anne-goring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Han Hao</title>
+      <link>/authors/han-hao/</link>
+      <pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/han-hao/</guid>
       <description></description>
     </item>
     
@@ -58,14 +66,6 @@
       <link>/authors/michael-j.-kane/</link>
       <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
       <guid>/authors/michael-j.-kane/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sara A. Goring</title>
-      <link>/authors/sara-a.-goring/</link>
-      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/sara-a.-goring/</guid>
       <description></description>
     </item>
     
