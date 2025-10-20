@@ -6,7 +6,7 @@
 # Website name
 title: Dr. Schmank's Academic Website
 # Website URL
-baseURL: 'cjschmank.github.io'
+baseURL: ''
 
 ############################
 ## LANGUAGE
