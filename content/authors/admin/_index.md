@@ -10,7 +10,7 @@ first_name: Christopher
 last_name: Schmank
 
 # Pronouns (optional)
-pronouns: he/him
+pronouns: 
 
 # Status emoji
 status:
@@ -43,8 +43,6 @@ profiles:
     url: https://bsky.app/profile/cjschmank.bsky.social
   - icon: brands/github
     url: https://github.com/cjschmank
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/christopherjschmank/
   - icon: academicons/researchgate
     url: https://www.researchgate.net/profile/Christopher-Schmank-2
   - icon: academicons/orcid
