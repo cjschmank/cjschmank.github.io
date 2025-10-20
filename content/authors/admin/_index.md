@@ -36,6 +36,9 @@ profiles:
   - icon: at-symbol
     url: 'mailto:chris.schmank@health.slu.edu'
     label: E-mail Me
+  - icon: calendar
+    url: https://calendly.com/christopher-j-schmank
+    label: Schedule a Meeting!
   - icon: brands/bluesky
     url: https://bsky.app/profile/cjschmank.bsky.social
   - icon: brands/github
@@ -160,8 +163,12 @@ skills:
 languages:
   - name: English
     percent: 100
+  - name: German
+    percent: 35  
   - name: Spanish
-    percent: 50
+    percent: 30
+  - name: French
+    percent: 10
 
 # Awards.
 #   Add/remove as many awards below as you like.
