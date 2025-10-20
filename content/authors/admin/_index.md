@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Alex Johnson
+title: Christopher J. Schmank
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Christopher
+last_name: Schmank
 
 # Pronouns (optional)
 pronouns: he/him
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,114 +23,139 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Assistant Professor </br> Statistics Consultant
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Saint Louis University
+    url: https://www.slu.edu/arts-and-sciences/psychology/faculty/christopher-schmank.php
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:chris.schmank@health.slu.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
+  - icon: brands/bluesky
+    url: https://bsky.app/profile/cjschmank.bsky.social
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/cjschmank
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://www.linkedin.com/in/christopherjschmank/
+  - icon: academicons/researchgate
+    url: https://www.researchgate.net/profile/Christopher-Schmank-2
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0002-5230-4810
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Regulation of Psychosocial Stress
+  - Regulation of Emotion
+  - Individual Difference Cognitive Ability Factors
+  - Language Production Errors
+  - Statistics/Statistical Modeling
+  - UX/Human Centered Design
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+  - area: Ph.D. Applied Cognitive Psychology
+    institution: Claremont Graduate University
+    date_start: 2017-08-13
+    date_end: 2025-04-03
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
+      Dissertation on how emotional inhibition impacts cognitive functioning for younger and older adults. 
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    date_start: 2013-09-01
-    date_end: 2015-05-31
+      text: 'Read Dissertation Preprint'
+      url: 'https://osf.io/download/g29xf_v1'
+  - area: M.A. Psychological Science
+    institution: University of Colorado Colorado Springs
+    date_start: 2012-08-13
+    date_end: 2016-12-15
+    summary:  |
+      Thesis on how evaluative observation impacts language production across younger and older adults. 
+      (Cognitive Concentration)
+    button:
+      text: 'Read Thesis Publication'
+      url: 'https://osf.io/btv6c' 
+  - area:  B.A. Psychology 
+    institution: Saint Louis University
+    date_start: 2006-08-13
+    date_end: 2010-05-20
     summary: |
-      GPA: 4.0/4.0
-
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    date_start: 2009-09-01
-    date_end: 2013-05-31
-    summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
+      Minored in Philosophy
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: Assistant Professor
+    company_name: Saint Louis University
+    company_url: 'https://www.slu.edu/arts-and-sciences/psychology/faculty/christopher-schmank.php'
     company_logo: ''
-    date_start: 2020-01-01
+    date_start: 2023-07-16
     date_end: ''
-    summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
-    company_logo: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Currently teaching: 
+      - Applied Univariate Statistics (PSY 5790) 
+      - Applied Multivariate Statistics (PSY 6500) 
+      - Psychometric Theory (PSY 5090)
+      - Applications of Research Methods and Statistics (PSY 4060/4960; Capstone Course)
+      - Cognitive Psychology (PSY 3210)
+  - position: Statistics Consultant
+    company_name: Saint Louis University
+    company_url: 'https://www.slu.edu/arts-and-sciences/psychology/faculty/christopher-schmank.php'
+    company_logo: ''
+    date_start: 2023-07-16
+    date_end: 
+    summary: |
+      Working with faculty, graduate, and undergraduate students on their research methods and statistics related questions!
+  - position: User Experience Researcher/Consultant
+    company_name: Self-Employed
+    company_url: 'https://cjschmank-ux-portfolio.netlify.app/'
+    company_logo: ''
+    date_start: 2019-05-13
+    date_end: 
+    summary: |
+      Have worked for Hit Point Studios, Here.LA, and Reality Smash as UX researcher/consultant since completion of doctoral program with internship beginning in mid-2019 at Hit Point Studios.
+
+      Check out my UX portfolio here: https://cjschmank-ux-portfolio.netlify.app/
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python & PyTorch
+      - name: Statistics Consultant
         description: ''
-        percent: 95
-        icon: code-bracket
-      - name: Machine Learning
+        percent: 90
+        icon: variable
+      - name: R Studio User
         description: ''
-        percent: 100
-        icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
+        percent: 90
+        icon: command-line
+      - name: Psychological Methods
         description: ''
         percent: 85
-        icon: cloud
+        icon: cog-6-tooth
+      - name: User Experience Research
+        description: ''
+        percent: 80
+        icon: user-group
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking in the Rockies
+      - name: Cat Enthusiast
+        description: ''
+        percent: 90
+        icon: cat
+      - name: Hiking/Running
         description: ''
         percent: 80
         icon: person-simple-walk
-      - name: Building Custom PCs
-        description: ''
-        percent: 90
-        icon: cpu-chip
-      - name: Sci-Fi Reading
+      - name: Sci-Fi/Horror Movies
         description: ''
         percent: 70
-        icon: book-open
+        icon: video-camera
+      - name: Video Games (Steam User)
+        description: ''
+        percent: 50
+        icon: computer-desktop
 
 languages:
   - name: English
@@ -143,27 +168,40 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
+  - title: Stuart Oskamp Student Fellowship Award
+    url: https://www.cgu.edu/fellowships/endowed-fellowships/
+    date: '2020-01-17'
+    awarder: CGU Division of Beahvioral and Operational Sciences
     icon: hero/trophy
     summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
+      Awarded by the generosity of CGU emeritus faculty member Stuart Oskamp to assist exemplary students in Psychology.
+  - title: 2018-2019 BLAIS Challenge Award 
+    url: https://my.cgu.edu/research/call-for-proposals/
+    date: '2019-08-13'
+    awarder: CGU Faculty Research Committee
     icon: hero/currency-dollar
     summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
+      $23,333 grant for research investigating rational thinking and intelligence in younger and older adults --- proposal submitted by Dr. Andrew Conway and Dr. Lise Abrams.
+  - title: National Residence Hall Honorary</br> Campus Award
     url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
+    date: '2014-08-30'
+    awarder: University of Colorado Colorado Springs
     icon: hero/academic-cap
     summary: |
-      Recognized for contributions to scaling laws in deep learning.
+      Awarded by undergraduate students at Master's program university.
 ---
+My name is Christopher J. Schmank, PhD :wave: 
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Since joining Saint Louis University in July 2023 I have had the opportunity to teach: 
+
+- Cognitive Psychology (PSY 3120)
+- Applications of Research Methods and Statistics (PSY 4060/4960)
+- Psychometric Theory (PSY 5090)
+- Applied Univariate Statistics (PSY 5790)
+- Applied Multivariate Statistics (PSY 6500)
+
+Currently enjoying the extra-curricular roles of:
+
+- Happy Husband
+- Cat Father (Buddy, Indi, & Bartleby)
+- Soon-to-be Father (:heart:Davina)

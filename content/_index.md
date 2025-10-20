@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: '6rem'
+  spacing: '2rem'
 
 sections:
   - block: resume-biography-3
@@ -19,29 +19,38 @@ sections:
         text: Download CV
         url: uploads/resume.pdf
       headings:
-        about: ''
+        about: 'Hello!'
         education: ''
-        interests: ''
+        interests: 'Research/Personal Interests'
     design:
       # Apply a gradient background
       css_class: hbx-bg-gradient
       # Avatar customization
       avatar:
-        size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
-        shape: circle # Options: circle (default), square, rounded
+        size: large # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
+        shape: rounded # Options: circle (default), square, rounded
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'Research Interests'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        My **primary research interests** include...
+        
+        1. How does regulating psychosocial stress impact language production and other cognitive abilities? 
+        
+        2. How does regulating emotion impact processing speed and other cognitive abilities?
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        3. How does healthy cognitive aging impact the experience of psychosocial stress and/or emotional regulation AND does this change the impact on cognition?
 
-        Please reach out to collaborate 😃
+        A **secondary research interest** of mine is **User eXperience (UX) research, strategy, and design**!
+
+        Check out my UX Portfolio: <a href="https://cjschmank-ux-portfolio.netlify.app" target="_blank"> CLICK HERE</a>! 
+
+        Please contact me if you have any questions about my **research** or **teaching experience**!
     design:
       columns: '1'
   - block: collection
+    demo: true # turned off
     id: papers
     content:
       title: Featured Publications
@@ -53,6 +62,7 @@ sections:
       view: article-grid
       columns: 2
   - block: collection
+    demo: true # turned off
     content:
       title: Recent Publications
       text: ''
@@ -63,6 +73,7 @@ sections:
     design:
       view: citation
   - block: collection
+    demo: true # turned off
     id: talks
     content:
       title: Recent & Upcoming Talks
@@ -72,6 +83,7 @@ sections:
     design:
       view: card
   - block: collection
+    demo: true # turned off
     id: news
     content:
       title: Recent News

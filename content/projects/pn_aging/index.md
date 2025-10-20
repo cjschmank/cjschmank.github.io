@@ -1,0 +1,24 @@
+---
+title: Age Differences Among Psychometric Models of Intelligence
+date: 2020-04-20
+summary: "Poster: Presented at the Cognitive Aging Conference (April, 2020) *Cancled Due to COVID-19" 
+image:
+  caption: Snapshot of Exploratory (Young Adult) and Confirmatory (Older Adult) Psychometric Networks
+  focal_point: Smart
+links:
+  - type: pdf
+    url: https://osf.io/pwxhs/
+tags:
+- Exploratory and Confirmatory Analyses
+- Latent Variable Modeling
+- Psychometric Network Analysis
+- Cognitive Aging
+- Hungarian WAIS-IV
+- Statistical Modeling
+---
+
+The positive manifold is one of the most frequently replicated findings in cognitive psychology and has often been explored using factor analysis (Spearman, 1904; Conway & Kovacs, 2013). Well-known models of cognition are typically organized such that manifest variables load onto respective latent factors representing specific cognitive abilities, and some posit a higher-order factor of general ability, g. It has been well established that cognitive abilities change across the lifespan (Craik & Salthouse, 2011), yet there is less work examining how factor models of cognitive ability compare across different age groups. 
+
+The current project used data from the Hungarian-Weschler Adult Intelligence Scale-fourth edition (H-WAISIV; Weschler; 2008) to compare models of cognitive ability for both young (18-40 years) and older adults (65 + years). An exploratory factor analysis conducted on the young adult data (n = 457) produced a four factor model that explained 67% of the variance in the data. This factor structure was then used to conduct a confirmatory factor analysis (CFA) on the older adult data (n = 305). The CFA produced good fit to the data, that was not significantly improved by adding a higher-order factor. Finally, in line with recent criticisms of using latent variable modeling (see Borsboom, Mellenbergh, & van Heerden, 2003) an exploratory psychometric network analysis was conducted on young adult data and a confirmatory psychometric network analysis was then applied to the older adult data, which produced similar, well-fitting results.
+
+Intriguingly, the older adult network demonstrates stronger connections between all measures sampled by the H-WAISIV, as indicated by the thicker blue edges or lines connecting nodes or measures in the network. This implies that performance on these psychological tasks were more related for older adults compared to their young adult counterparts. More research is required to explain what these psychometric networks indicate, however, additional research has indicated that psychometric networks fit intelligence data as well if not better than latent variable models. 

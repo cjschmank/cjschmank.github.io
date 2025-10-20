@@ -12,6 +12,7 @@ cascade:
 
 sections:
   - block: collection
+    demo: true
     id: courses
     content:
       title: Courses
