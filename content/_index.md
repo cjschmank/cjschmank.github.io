@@ -44,7 +44,7 @@ sections:
 
         A **secondary research interest** of mine is **User eXperience (UX) research, strategy, and design**!
 
-        Check out my UX Portfolio: <a href="https://cjschmank-ux-portfolio.netlify.app" target="_blank"> CLICK HERE</a>! 
+        Check out my UX Portfolio: <a href="https://cjschmank.github.io/UXR-Portfolio/" target="_blank"> CLICK HERE</a>! 
 
         Please contact me if you have any questions about my **research** or **teaching experience**!
     design:
