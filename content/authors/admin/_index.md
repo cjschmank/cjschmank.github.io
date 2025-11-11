@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Christopher J. Schmank
+title: Christopher J. Schmank, PhD
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -107,14 +107,14 @@ work:
       Working with faculty, graduate, and undergraduate students on their research methods and statistics related questions!
   - position: User Experience Researcher/Consultant
     company_name: Self-Employed
-    company_url: 'https://cjschmank-ux-portfolio.netlify.app/'
+    company_url: 'https://cjschmank.github.io/UXR-Portfolio/'
     company_logo: ''
     date_start: 2019-05-13
     date_end: 
     summary: |
       Have worked for Hit Point Studios, Here.LA, and Reality Smash as UX researcher/consultant since completion of doctoral program with internship beginning in mid-2019 at Hit Point Studios.
 
-      Check out my UX portfolio here: https://cjschmank-ux-portfolio.netlify.app/
+      Check out my UX portfolio here: https://cjschmank.github.io/UXR-Portfolio/
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -128,7 +128,7 @@ skills:
       - name: R Studio User
         description: ''
         percent: 90
-        icon: command-line
+        icon: devicon/rstudio
       - name: Psychological Methods
         description: ''
         percent: 85
@@ -147,15 +147,15 @@ skills:
         icon: cat
       - name: Hiking/Running
         description: ''
-        percent: 80
+        percent: 86
         icon: person-simple-walk
       - name: Sci-Fi/Horror Movies
         description: ''
-        percent: 70
+        percent: 84
         icon: video-camera
       - name: Video Games (Steam User)
         description: ''
-        percent: 50
+        percent: 75
         icon: computer-desktop
 
 languages:
@@ -191,7 +191,7 @@ awards:
     url: https://www.stanford.edu/
     date: '2014-08-30'
     awarder: University of Colorado Colorado Springs
-    icon: hero/academic-cap
+    icon: hero/home-modern
     summary: |
       Awarded by undergraduate students at Master's program university.
 ---
