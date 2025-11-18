@@ -45,8 +45,7 @@ profiles:
     url: https://github.com/cjschmank
   - icon: academicons/researchgate
     url: https://www.researchgate.net/profile/Christopher-Schmank-2
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-5230-4810
+
 
 interests:
   - Regulation of Psychosocial Stress
@@ -188,14 +187,14 @@ awards:
     summary: |
       $23,333 grant for research investigating rational thinking and intelligence in younger and older adults --- proposal submitted by Dr. Andrew Conway and Dr. Lise Abrams.
   - title: National Residence Hall Honorary</br> Campus Award
-    url: https://www.stanford.edu/
+    url: 
     date: '2014-08-30'
     awarder: University of Colorado Colorado Springs
     icon: hero/home-modern
     summary: |
       Awarded by undergraduate students at Master's program university.
 ---
-My name is Christopher J. Schmank, PhD :wave: 
+Hello! My name is Christopher J. Schmank, PhD :wave: 
 
 Since joining Saint Louis University in July 2023 I have had the opportunity to teach: 
 

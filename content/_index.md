@@ -19,7 +19,7 @@ sections:
         text: Download CV
         url: uploads/resume.pdf
       headings:
-        about: 'Hello!'
+        about: 'Welcome to my Academic Website!'
         education: ''
         interests: 'Research/Personal Interests'
     design:
