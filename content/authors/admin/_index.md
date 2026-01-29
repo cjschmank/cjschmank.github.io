@@ -207,5 +207,5 @@ Since joining Saint Louis University in July 2023 I have had the opportunity to 
 Currently enjoying the extra-curricular roles of:
 
 - Happy Husband
-- Cat Father (Buddy, Indi, & Bartleby)
-- Soon-to-be Father (:heart:Davina)
+- New Father (:heart:Davina)
+- Cat Enthusiast (Buddy, Indi, & Bartleby)

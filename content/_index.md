@@ -23,6 +23,10 @@ sections:
         education: ''
         interests: 'Research/Personal Interests'
     design:
+      #background:
+      #  gradient_start: '#606c38'
+      #  gradient_end: '#fefae0'
+      #  gradient_angle: 180
       # Apply a gradient background
       css_class: hbx-bg-gradient
       # Avatar customization
