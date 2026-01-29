@@ -206,6 +206,5 @@ Since joining Saint Louis University in July 2023 I have had the opportunity to 
 
 Currently enjoying the extra-curricular roles of:
 
-- Happy Husband
-- New Father (:heart:Davina)
+- Happy Husband & New Father (:heart:Davina Norrie)
 - Cat Enthusiast (Buddy, Indi, & Bartleby)
