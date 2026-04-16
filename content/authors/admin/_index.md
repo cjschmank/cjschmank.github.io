@@ -50,7 +50,7 @@ profiles:
 interests:
   - Regulation of Psychosocial Stress
   - Regulation of Emotion
-  - Individual Difference Cognitive Ability Factors
+  - Rationality and Cognitive Ability
   - Language Production Errors
   - Statistics/Statistical Modeling
   - UX/Human Centered Design
@@ -109,9 +109,9 @@ work:
     company_url: 'https://cjschmank.github.io/UXR-Portfolio/'
     company_logo: ''
     date_start: 2019-05-13
-    date_end: 
+    date_end: 2023-02-01
     summary: |
-      Have worked for Hit Point Studios, Here.LA, and Reality Smash as UX researcher/consultant since completion of doctoral program with internship beginning in mid-2019 at Hit Point Studios.
+      Worked as UX researcher/consultant for Hit Point Studios, Here.LA, and Reality Smash during completion of doctoral program. Completed a UX Research internship beginning in mid-2019 at Hit Point Studios.
 
       Check out my UX portfolio here: https://cjschmank.github.io/UXR-Portfolio/
 
@@ -172,6 +172,13 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: Nominated for Donald G. Brennan Award for Excellence in Graduate Mentoring
+    url: https://www.slu.edu/arts-and-sciences/faculty-staff-awards.php
+    date: '2025-12-29'
+    awarder: Saint Louis University College of Arts and Sciences
+    icon: hero/academic-cap
+    summary: |
+      Nominated internally by a graduate student for mentoring excellence in my role as Assistant Professor and Statistics Consultant for the Department of Psychology. 
   - title: Stuart Oskamp Student Fellowship Award
     url: https://www.cgu.edu/fellowships/endowed-fellowships/
     date: '2020-01-17'
@@ -196,15 +203,16 @@ awards:
 ---
 Hello! My name is Christopher J. Schmank, PhD :wave: 
 
-Since joining Saint Louis University in July 2023 I have had the opportunity to teach: 
+Since joining Saint Louis University in 2023 I have had the opportunity to teach: 
 
-- Cognitive Psychology (PSY 3120)
-- Applications of Research Methods and Statistics (PSY 4060/4960)
-- Psychometric Theory (PSY 5090)
-- Applied Univariate Statistics (PSY 5790)
-- Applied Multivariate Statistics (PSY 6500)
+- **Cognitive Psychology** (*PSY 3120*) --- Fall 2023 & 2024; Spring 2024 & 2025
+- **Applications of Research Methods and Statistics** (*Undergraduate Capstone Course: PSY 4060*) --- Fall 2025
+- **Advanced Research Methods and Statistics** (*Undergraduate Capstone Course: PSY 4840*) --- Spring 2026
+- **Psychometric Theory** (*PSY 5090*) --- Spring 2024, 2025 & 2026
+- **Applied Univariate and Bivariate Statistics** (*PSY 5790*) --- Fall 2023, 2024 & 2025
+- **Applied Multivariate and Multivariable Statistics** (*PSY 6500*) --- Spring 2024, 2025, 2026
 
 Currently enjoying the extra-curricular roles of:
 
-- Happy Husband & New Father (:heart:Davina Norrie)
+- Husband & New Father (:heart: Heather & Davina Norrie)
 - Cat Enthusiast (Buddy, Indi, & Bartleby)
