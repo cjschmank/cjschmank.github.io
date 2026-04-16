@@ -193,13 +193,6 @@ awards:
     icon: hero/currency-dollar
     summary: |
       $23,333 grant for research investigating rational thinking and intelligence in younger and older adults --- proposal submitted by Dr. Andrew Conway and Dr. Lise Abrams.
-  - title: National Residence Hall Honorary</br> Campus Award
-    url: 
-    date: '2014-08-30'
-    awarder: University of Colorado Colorado Springs
-    icon: hero/home-modern
-    summary: |
-      Awarded by undergraduate students at Master's program university.
 ---
 Hello! My name is Christopher J. Schmank, PhD :wave: 
 
