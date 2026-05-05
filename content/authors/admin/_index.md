@@ -94,7 +94,7 @@ work:
       - Applied Univariate Statistics (PSY 5790) 
       - Applied Multivariate Statistics (PSY 6500) 
       - Psychometric Theory (PSY 5090)
-      - Applications of Research Methods and Statistics (PSY 4060/4960; Capstone Course)
+      - Applications of Research Methods and Statistics (PSY 4060/4840; Capstone Course)
       - Cognitive Psychology (PSY 3210)
   - position: Statistics Consultant
     company_name: Saint Louis University
