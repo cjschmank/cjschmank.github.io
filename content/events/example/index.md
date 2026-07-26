@@ -58,6 +58,10 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects:
   - example
+
+build:
+  render: never
+  list: never
 ---
 
 > [!NOTE]

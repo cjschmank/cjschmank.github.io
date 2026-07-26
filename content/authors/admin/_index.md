@@ -207,5 +207,5 @@ Since joining Saint Louis University in 2023 I have had the opportunity to teach
 
 Currently enjoying the extra-curricular roles of:
 
-- Husband & New Father (:heart: Heather & Davina Norrie)
+- Husband & Father (:heart: Heather & Davina Norrie :heart:)
 - Cat Enthusiast (Buddy, Indi, & Bartleby)

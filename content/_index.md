@@ -50,7 +50,7 @@ sections:
 
         Check out my UX Portfolio: <a href="https://cjschmank.github.io/UXR-Portfolio/" target="_blank"> CLICK HERE</a>! 
 
-        Please contact me if you have any questions about my **research** or **teaching experience**!
+        Please contact me if you have any questions about my **research** or **teaching experience** at chris.schmank@health.slu.edu!
     design:
       columns: '1'
   - block: collection
@@ -77,10 +77,10 @@ sections:
     design:
       view: citation
   - block: collection
-    demo: true # turned off
+    #demo: true # turned off
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Presentations & Invited Talks
       filters:
         folders:
           - events
